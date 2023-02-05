@@ -9,6 +9,7 @@ Notas de livros sobre tecnologia e outros assuntos complementares.
 
 * [Implementing Domain-Driven Design](implementing-domain-driven-design.markdown) by Vaughn Vernon
 * [Event Storming](event-storming.markdown) by Alberto Brandolini
+* [A arte de pensar claramente](a-arte-de-pensar-claramente.markdown) by Rolf Dobeli
 
 ### Notas não iniciadas
 
