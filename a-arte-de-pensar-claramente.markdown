@@ -22,3 +22,5 @@ Atitudes que são tomadas por que um grupo que está perto também tomou, desvir
 Quando tomamos a decisão de continuar no mesmo caminho só por ter gastado tempo, energia, dinheiro e não por realmente fazer sentido.
 
 ### RECIPROCIDADE
+Não aceite algo que não queira pois isso vai gerar um efeito de reprocidade, prolongando situações "mal-vindas" só pra não se sentir culpado de não ter aceito na primeira oportunidade. Relações devem ser claras desde o início.
+
